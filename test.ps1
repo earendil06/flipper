@@ -1,1 +1,1 @@
-New-Item C:\test.txt
+New-Item C:\test2.txt
